@@ -4,7 +4,7 @@
 #form_login{
     display: flex;
     flex-direction:column ;
-    width: 350px;
+    width: 310px;
     margin: 100px auto;
     height: 80px;
 }
